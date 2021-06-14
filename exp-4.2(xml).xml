@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<!DOCTYPE bookdetails SYSTEM "book.dtd">
-<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<!DOCTYPE bookdetails SYSTEM "exp-4.2(dtd).dtd">
+<?xml-stylesheet type="text/xsl"exp-4.2(xsl).xsl"?>
 <bookdetails>
 <books>
 <title>C</title>
